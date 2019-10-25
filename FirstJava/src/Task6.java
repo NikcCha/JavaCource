@@ -15,7 +15,7 @@ public class Task6 {
         int x = scanner.nextInt();
         int y = scanner.nextInt();
         int z = scanner.nextInt();
-        int middle = (x+y+z)/2;
+        int middle = (x+y+z)/3;
         if (middle/2>3)
             System.out.println("Программа выполнена корректно");
         else
